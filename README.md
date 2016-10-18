@@ -1,2 +1,0 @@
-# practice
-learning GIT hub
